@@ -1,0 +1,24 @@
+.templebg{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    object-fit: scale-down;
+
+}
+.card{
+    height: 450px;
+}
+.img-fluid{
+    width: 200px;
+    height: 100px;
+}
+.nav-link:hover{
+    background-color: rgb(53, 71, 125);
+    color: red;
+
+}
+.linkid:hover{
+    color: red;
+}
